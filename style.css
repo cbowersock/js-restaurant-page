@@ -1,0 +1,8 @@
+html {
+    background-image: url('rainforest.png');
+}
+
+#content {
+    background-color: aqua;
+    width: 400px;
+}
